@@ -1,6 +1,7 @@
 # kannada_movies
 
-A new Flutter project.
+A new Flutter project using rest api
+
 
 ## Getting Started
 
